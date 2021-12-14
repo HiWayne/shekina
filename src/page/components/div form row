@@ -1,0 +1,116 @@
+div form row
+{
+    id
+    type
+    parent
+    child
+    sibling
+    inline
+    state
+    equality
+    value
+    valueType
+    namespaceOfValue
+    wrapperOffset
+    wrapperSpan
+}
+
+input 
+{
+    id
+    type
+    parent
+    child
+    sibling
+    inline
+    state
+    equality
+    value
+    valueType
+    namespaceOfValue
+    wrapperOffset
+    wrapperSpan
+    labelOffset
+    labelSpan
+    label
+    defaultValue
+    required
+    message
+    transform
+}
+
+select checkbox radio
+{
+    id
+    type
+    parent
+    child
+    sibling
+    inline
+    state
+    equality
+    value
+    valueType
+    namespaceOfValue
+    wrapperOffset
+    wrapperSpan
+    labelOffset
+    labelSpan
+    label
+    defaultValue
+    required
+    message
+    options
+    transform
+}
+
+button
+{
+    id
+    type
+    parent
+    child
+    sibling
+    inline
+    state
+    equality
+    valueType
+    namespaceOfValue
+    wrapperOffset
+    name
+    api
+    action
+    method
+    style
+    effect
+    pageSize
+}
+
+table
+{
+    id
+    type
+    parent
+    sibling
+    operations
+    columns
+    // todo
+    transform
+    state
+    rowSelection
+    value
+    valueType
+}
+
+modal
+{
+    id
+    type
+    parent
+    child
+    sibling
+    state
+    equality
+    api
+    method
+}
