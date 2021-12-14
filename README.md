@@ -1,7 +1,8 @@
 # low code / no code 低代码或零代码平台
 
-## `只完成解析json scheme逻辑`
-## `已全部重构，迁移至[luban](https://github.com/HiWayne/luban)`
+`只完成解析json scheme逻辑`
+
+## 已全部重构，迁移至[luban](https://github.com/HiWayne/luban)
 
 ## 为什么要重构？
 
